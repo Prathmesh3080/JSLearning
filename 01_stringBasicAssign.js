@@ -1,0 +1,13 @@
+console.log("---------- STEP 1 ----------");
+console.log(`My Dream company is:"TCS"`);
+console.log("---------- STEP 2 ----------");
+var hobby1 = "Reading Books";
+var hobby2 = "Drawing";
+var hobby3 = "Listen Podcast";
+console.log(`My Hobbies are: 1.${hobby1}, 2.${hobby2} 3. ${hobby3}`);
+console.log("---------- STEP 3 ----------");
+var len1 = hobby1.length;
+var len2 = hobby2.length;
+var len3 = hobby3.length; 
+var result = len1+len2+len3;
+console.log(`Sum of All Characters:${result}`);

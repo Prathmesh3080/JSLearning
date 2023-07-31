@@ -1,0 +1,13 @@
+console.log(`================= Assignment 3 ===============`);
+var result = '4' - '2';
+console.log(`'4' - '2' Result is: ${result} (String is Implicitly converted into the Numbers:)`);
+console.log(`---------------------------------------------------------------------------`);
+var result = '4' - 2;
+console.log(`'4' - 2 Result is: ${result} ('4' String is Implicitly converted into the Number:)`);
+console.log(`----------------------------------------------------------------------------`);
+var result = '4' * 2;
+console.log(`'4' * 2 Result is: ${result} ('4' String is Implicitly converted into the Numbers:)`);
+console.log(`----------------------------------------------------------------------------`);
+var result = '4' / 2;
+console.log(`'4' / 2 Result is: ${result} ('4' String is Implicitly converted into the Numbers:)`);
+console.log(`----------------------------------------------------------------------------`);
