@@ -18,7 +18,7 @@ const convert1 = JSON.parse(jsonstr);
 console.log(typeof convert1);
 console.log(convert1);
 console.log(`------------- Step 2 ---------------------`);
-console.log(`Role is: ${convert1.role[0]}`);
+console.log(`Role is: ${convert1.role[1]}`);
 console.log(`------------- Step 3 ---------------------`);
 console.log(`Last Name: ${convert1.name.slice(6,11)}`);
 console.log(`------------- Step 4 ---------------------`);
