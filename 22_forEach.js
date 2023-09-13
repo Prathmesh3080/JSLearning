@@ -9,7 +9,7 @@ array.forEach( (currentValue)=>{
         console.log(currentValue);
     }
 } ); 
-
+   
 
 class Student {
     constructor(fullName, rollNo, college, emailId, mobile ){
