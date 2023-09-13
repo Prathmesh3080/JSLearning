@@ -44,4 +44,4 @@ let salSum1 = 0;
 for (const employee of emp3) {
     salSum1 = salSum1 + employee.emp_salary;
 }
-console.log(`Average salary from Wipro = ${salSum1/emp2.length}`);
+console.log(`Average salary from Wipro = ${salSum/emp2.length}`);
